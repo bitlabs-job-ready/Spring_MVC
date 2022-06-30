@@ -1,0 +1,3 @@
+2.please create simple mvc based application using any IDE.
+
+-Just create  Folder structure for MVC application. 
